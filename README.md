@@ -4,3 +4,4 @@ Ezt a projektet azért hoztam létre, hogy legyen egy biztonsági mentés a proj
 2. Készítsük el a táblákat (_create_tables.sql_)
 3. Szúrjuk be a member tábla elemeit (_insert_member.sql_)
 4. Szúrjuk be a building tábla elemeit (_insert_building.sql_)
+5. Szúrjuk be a section tábla elemeit (_insert_section.sql_)
