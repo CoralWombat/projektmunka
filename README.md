@@ -3,3 +3,4 @@ Ezt a projektet azért hoztam létre, hogy legyen egy biztonsági mentés a proj
 1. Ha nem üres az adatbázis töröljük a táblákat (_drop_tables.sql_)
 2. Készítsük el a táblákat (_create_tables.sql_)
 3. Szúrjuk be a member tábla elemeit (_insert_member.sql_)
+4. Szúrjuk be a building tábla elemeit (_insert_building.sql_)
