@@ -10,6 +10,6 @@ Ezt a projektet azért hoztam létre, hogy legyen egy biztonsági mentés a proj
 8. Szúrjuk be a section tábla elemeit (_insert_section_)
 9. Szúrjuk be a stock tábla elemeit (_insert_stock_)
 10. Szúrjuk be a instance tábla elemeit (_insert_instance_)
-11. Szúrjuk be a rent tábla elemeit (_insert_rent_)
+11. Szúrjuk be a rent tábla elemeit (_insert_rent_0, insert_rent_1_)
 12. Szúrjuk be a stock_stock_author tábla elemeit (_insert_stock_stock_author_)
 13. Szúrjuk be a stock_stock_category tábla elemeit (_insert_stock_stock_category_)
